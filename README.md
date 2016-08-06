@@ -3,7 +3,7 @@
 @Date:   08-05-2016
 @Email:  laynefaler@gmail.com
 @Last modified by:   laynefaler
-@Last modified time: 08-05-2016
+@Last modified time: 08-06-2016
 -->
 
 # Homepage Themes
@@ -15,6 +15,12 @@ Take folder and in Google Chromes extension menu (inside More Tools) load this d
 
 Press "Three bar button", go to More Tools, select Extensions
 
-![alt-tag](./Screen\ Shot\ 2016-08-05\ at\ 6.17.16\ PM.png )
+![alt-tag](./Screen\ Shot\ 2016-08-05\ at\ 6.17.16\ PM.png)
 
-Press Load Unpacked Extension select this folder and then select the new button of the right of the address bar (above 'Other Bookmarks' in this picture)
+Press Load Unpacked Extension select this folder and then open a new tab.
+
+To customize your own background image go to the image folder in this directory and replace the image theme_ntp_background.png with your favorite image then rename that image theme_ntp_background and make sure it's in the .png format.
+
+![alt-tag](./Screen\ Shot\ 2016-08-06\ at\ 11.08.53\ AM.png)
+
+This is the image directory in this folder.
