@@ -21,6 +21,6 @@ Press Load Unpacked Extension select this folder and then open a new tab.
 
 To customize your own background image go to the image folder in this directory and replace the image theme_ntp_background.png with your favorite image then rename that image theme_ntp_background and make sure it's in the .png format.
 
-![alt-tag](./Screen\ Shot\ 2016-08-06\ at\ 11.08.53\ AM.png)
+![alt-tag](https://github.com/laynef/HomepageThemeGCE_JS/blob/master/Screen%20Shot%202016-08-06%20at%2011.08.53%20AM.png)
 
 This is the image directory in this folder.
