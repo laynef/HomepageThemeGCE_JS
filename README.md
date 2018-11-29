@@ -11,11 +11,11 @@
 ## Install
 Take folder and in Google Chromes extension menu (inside More Tools) load this directory using 'Load unpacked extension'. Press the new button on the right of your tab bar.
 
-![alt-tag](https://github.com/laynef/HomepageThemeGCE_JS/blob/master/Screen%20Shot%202016-08-05%20at%206.17.16%20PM.png)
+![alt-tag](https://github.com/laynef/HomepageThemeGCE_JS/blob/master/Screen%20Shot%202016-08-05%20at%206.17.48%20PM.png)
 
 Press "Three bar button", go to More Tools, select Extensions
 
-![alt-tag](./Screen\ Shot\ 2016-08-05\ at\ 6.17.16\ PM.png)
+![alt-tag](https://github.com/laynef/HomepageThemeGCE_JS/blob/master/Screen%20Shot%202016-08-05%20at%206.17.16%20PM.png)
 
 Press Load Unpacked Extension select this folder and then open a new tab.
 
