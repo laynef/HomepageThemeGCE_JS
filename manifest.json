@@ -1,9 +1,8 @@
 {
   "manifest_version": 2,
-  "name": "Meytal",
+  "name": "Custom Theme",
   "description": "This extension allows you customize your google chrome themes",
   "version": "2.6",
-
   "theme": {
      "colors": {
         "bookmark_text": [ 232, 232, 232 ],
